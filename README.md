@@ -2,6 +2,10 @@
 
 Application de suivi d'habitudes construite avec Laravel 12, Inertia.js, React et Tailwind CSS.
 
+Compte d'exemple avec les habitudes rentrées :
+login : motdepasse@example.com
+mot de passe : motdepasse
+
 ## 📋 Prérequis
 
 Avant de commencer, assurez-vous d'avoir installé les outils suivants sur votre machine :
